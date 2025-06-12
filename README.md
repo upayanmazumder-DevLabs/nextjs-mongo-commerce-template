@@ -1,3 +1,4 @@
-# nextjs-mongo-cookie-template
+# nextjs-mongo-commerce-template
 
-A modern full-stack starter template using Next.js, MongoDB, and cookie-based authentication. Built for rapid prototyping with secure, production-ready defaults. Includes session handling, MongoDB integration, and a modular structure for scalable app development.
+A full-stack eCommerce template built with Next.js, MongoDB, and cookie-based authentication.
+Derived from nextjs-mongo-cookie-template, this template provides a secure, extensible foundation for building custom online stores
